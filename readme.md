@@ -9,3 +9,11 @@ Sources: Kaggle
 ## Repository Structure
 
 ## Data
+
+## Statistical Testing
+
+## Modeling
+
+## Conclusions
+
+## Next Steps
